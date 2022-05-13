@@ -90,7 +90,7 @@
     "@octokit/rest": "^16.28.7",
     "@storybook/addon-actions": "^5.3.6",
     "@storybook/addon-links": "^5.3.6",
-    "@storybook/react": "^5.3.6",
+    "@storybook/react": "^6.4.0",
     "@testing-library/dom": "^8.0.0",
     "@testing-library/jest-dom": "^5.11.1",
     "@testing-library/react": "^12.0.0",
@@ -164,7 +164,7 @@
     "unist-util-visit": "^1.4.0",
     "webpack": "^4.29.6",
     "webpack-cli": "^4.0.0",
-    "webpack-dev-server": "^3.2.1"
+    "webpack-dev-server": "^4.0.0"
   },
   "workspaces": {
     "packages": [
