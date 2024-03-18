@@ -142,7 +142,7 @@
     "jest-emotion": "^10.0.32",
     "js-yaml": "^4.0.0",
     "mockserver-client": "^5.8.0",
-    "mockserver-node": "^5.8.0",
+    "mockserver-node": "^5.14.0",
     "ncp": "^2.0.0",
     "nock": "^13.0.0",
     "node-fetch": "^2.3.0",
