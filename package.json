@@ -137,8 +137,8 @@
     "gitlab": "^14.1.1",
     "http-server": "^14.0.0",
     "husky": "^4.0.0",
-    "jest": "^27.0.0",
-    "jest-cli": "^27.0.0",
+    "jest": "^28.0.0",
+    "jest-cli": "^28.0.0",
     "jest-emotion": "^10.0.32",
     "js-yaml": "^4.0.0",
     "mockserver-client": "^5.8.0",
@@ -164,7 +164,7 @@
     "unist-util-visit": "^1.4.0",
     "webpack": "^4.29.6",
     "webpack-cli": "^4.0.0",
-    "webpack-dev-server": "^3.2.1"
+    "webpack-dev-server": "^4.0.0"
   },
   "workspaces": {
     "packages": [
